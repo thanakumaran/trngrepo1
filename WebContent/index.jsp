@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>App1</title>
 </head>
 <body>
-Git Demo !!!!! mod1
+Git Demo !!!!! mod1--mod2
 </body>
 </html>
